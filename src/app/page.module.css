@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero {
+    margin: 50px auto;
+  }
+  
+  .title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+  }
+  
+  .link {
+    background-color: #0070f3;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .link:hover {
+    background-color: #005bb5;
+  }
+  .content {
+    padding-top: 60px; /* ความสูงของ Navbar */
+  }
